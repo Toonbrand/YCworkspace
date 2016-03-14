@@ -2,7 +2,7 @@ package nl.youngcapital.opdrachten;
 
 import java.util.Scanner;
 
-public class Opdracht3 {
+public class Opdracht03 {
 	
 	public static void main(String[] arg){
 		System.out.println("Lengte driehoek berekenen.");

@@ -2,7 +2,7 @@ package nl.youngcapital.opdrachten;
 
 import java.util.Scanner;
 
-public class Opdracht2 {
+public class Opdracht02 {
 
 	public static void main(String[] args)
 	{

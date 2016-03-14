@@ -2,7 +2,7 @@ package nl.youngcapital.opdrachten;
 
 import java.util.Scanner;
 
-public class Opdracht4 {
+public class Opdracht04 {
 
 	public static void main(String[] args) {
 		System.out.println("Volume en oppervlakte kubus berekenen.");

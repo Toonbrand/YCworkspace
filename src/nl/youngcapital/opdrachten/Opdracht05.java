@@ -1,6 +1,6 @@
 package nl.youngcapital.opdrachten;
 
-public class Opdracht5{
+public class Opdracht05{
 	
 	public static void main(String[] args){
 		int x = 5;

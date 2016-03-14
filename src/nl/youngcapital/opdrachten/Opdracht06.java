@@ -2,7 +2,7 @@ package nl.youngcapital.opdrachten;
 
 import java.util.Scanner;
 
-public class Opdracht6 {
+public class Opdracht06 {
 
 	public static void main(String[] args) {
 		System.out.println("Voer 5 scores in.");

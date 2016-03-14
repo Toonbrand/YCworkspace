@@ -2,7 +2,7 @@ package nl.youngcapital.opdrachten;
 
 import java.util.Scanner;
 
-public class Opdracht8 {
+public class Opdracht08 {
 	public static void main(String[] args){
 		System.out.println("Please enter 3 values.");
 		Scanner s = new Scanner(System.in);
