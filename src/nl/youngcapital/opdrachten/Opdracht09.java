@@ -9,6 +9,6 @@ public class Opdracht09 {
 			System.out.println(number);
 			break;
 		}
-	System.out.println("Number not below 10.asdf");	
+	System.out.println("Number not below 10.");	
 	}
 }
