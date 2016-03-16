@@ -10,21 +10,20 @@ public class Opdracht20b {
 		int inputVal = Integer.valueOf(input);
 		int inputPos;
 
-		System.out.println(inputVal); //debug
+		//System.out.println(inputVal); //debug
 
-
-		if(inputVal >= 97){ //kleine letter
+		if(inputVal >= 97){ 	//kleine letter
 			char firstLetter = 'a';
 			int firstVal = Integer.valueOf(firstLetter);
 			inputPos = inputVal - firstVal;
-
 		}
 
-		else{	//hoofdletter
+		else{					//hoofdletter
 			char firstCapital = 'A';
 			int firstCapVal = Integer.valueOf(firstCapital);
 			inputPos = inputVal - firstCapVal;
 		}
-		System.out.println(inputPos + 1);
+
+		System.out.println("De letter " + input + " is de " + (inputPos + 1) + "e letter in het alfabet");
 	}
 }
