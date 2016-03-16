@@ -9,7 +9,7 @@ public class Opdracht23 {
 		String[] phoneNrs = {"06-6666666", "06-7777777", "06-88888888"};
 
 		System.out.println("Geef een naam op");
-		
+
 		Scanner s = new Scanner(System.in);
 		String input = s.next();
 
@@ -22,8 +22,6 @@ public class Opdracht23 {
 				break;
 			}
 			System.out.println("Doorzoekt database");
-
 		}
-		System.out.println("Naam niet gevonden in klantendatabase");
 	}
 }
