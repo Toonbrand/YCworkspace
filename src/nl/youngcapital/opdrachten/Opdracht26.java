@@ -14,6 +14,9 @@ public class Opdracht26 {
 			if(noDoubles(numbers, input)){
 				numbers[i] = input;
 			}
+			else{
+				i-=1;
+			}
 		}
 
 		for(int i=0; i<10; i++){
