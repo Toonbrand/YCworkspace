@@ -1,8 +1,8 @@
-package nl.youngcapital.opdrachten;
+package nl.youngcapital.stringoefeningen;
 
 import java.util.Scanner;
 
-public class Rot13Sleutel {
+public class Oefening1_rot13 {
 	public static void main(String[] arg){
 		Scanner s = new Scanner(System.in);
 		String input = s.nextLine();
