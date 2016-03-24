@@ -1,4 +1,4 @@
-package nl.youngcapital.opdrachten;
+package nl.youngcapital.demos;
 
 public class Singleton {
 	private static Singleton _theInstance;

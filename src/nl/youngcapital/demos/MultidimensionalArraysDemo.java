@@ -1,6 +1,6 @@
-package nl.youngcapital.opdrachten;
+package nl.youngcapital.demos;
 
-public class PascalTriangle {
+public class MultidimensionalArraysDemo {
 
 	/* vult een nieuwe rij op basis van de oude 
 	 * 
