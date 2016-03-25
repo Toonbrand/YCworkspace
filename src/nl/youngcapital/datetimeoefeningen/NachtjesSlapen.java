@@ -1,4 +1,4 @@
-package nl.youngcapital.demos;
+package nl.youngcapital.datetimeoefeningen;
 
 import java.time.*;
 import java.util.Scanner;
